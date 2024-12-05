@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para entrar em contato me segue nas redes abaixo!
  
 <div> 
   <a href="https://wa.me/5571981019733"><img src="https://img.shields.io/badge/WHATSAPP-verde?style=for-the-badge&logoSize=40px"></a>
